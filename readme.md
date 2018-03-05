@@ -12,4 +12,5 @@ In your Linux or Mac terminal, run:
     gcc hello_world.c
     ./a.out
 
-You should see "Hello world" printed.change
+You should see "Hello world" printed.
+change
